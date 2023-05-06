@@ -1,7 +1,7 @@
 package main
 
 import (
-	example "alicloud-demo/example/ecs"
+	"alicloud-demo/example"
 	"alicloud-demo/initialize"
 )
 
@@ -13,4 +13,8 @@ func init() {
 func main() {
 	// ECS使用样例
 	example.ECS()
+
+	// MNS使用样例
+	example.MNS()
+
 }

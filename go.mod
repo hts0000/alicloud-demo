@@ -20,6 +20,7 @@ require (
 	github.com/alibabacloud-go/tea-utils v1.4.5 // indirect
 	github.com/alibabacloud-go/tea-xml v1.1.3 // indirect
 	github.com/aliyun/credentials-go v1.2.7 // indirect
+	github.com/aliyunmq/mq-http-go-sdk v1.0.3 // indirect
 	github.com/andybalholm/brotli v1.0.5 // indirect
 	github.com/clbanning/mxj/v2 v2.5.7 // indirect
 	github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 // indirect
