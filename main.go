@@ -17,4 +17,6 @@ func main() {
 	// MNS使用样例
 	example.MNS()
 
+	// RDS使用样例
+	example.RDS()
 }
