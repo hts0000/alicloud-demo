@@ -19,4 +19,7 @@ func main() {
 
 	// RDS使用样例
 	example.RDS()
+
+	// BILL使用样例
+	example.BILL()
 }

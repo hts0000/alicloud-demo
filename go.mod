@@ -3,6 +3,8 @@ module alicloud-demo
 go 1.20
 
 require (
+	github.com/alibabacloud-go/bssopenapi-20171214 v1.0.8
+	github.com/alibabacloud-go/darabonba-openapi v0.1.4
 	github.com/alibabacloud-go/darabonba-openapi/v2 v2.0.4
 	github.com/alibabacloud-go/ecs-20140526/v3 v3.0.5
 	github.com/alibabacloud-go/rds-20140815/v3 v3.0.4
@@ -37,6 +39,6 @@ require (
 	github.com/valyala/fasthttp v1.45.0 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/net v0.9.0 // indirect
+	golang.org/x/net v0.10.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 )
